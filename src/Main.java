@@ -8,5 +8,10 @@ public class Main {
         omnax.Star="4";
 
         System.out.println(omnax);
+        Planet1 xeon = new Planet1();
+        xeon.Name = "reon";
+        xeon.Color = "pink";
+        xeon.Temp = "-45celcius";
+        xeon.Size = "1cm";
     }
 }
